@@ -30,6 +30,3 @@ This project involves manual testing of the Property Fish application, which is 
 * UI Testing
 * Regression Testing
 
-## 👩‍💻 Author
-
-Sayali Sarode
